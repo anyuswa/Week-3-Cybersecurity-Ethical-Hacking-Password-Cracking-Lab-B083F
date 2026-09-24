@@ -1,1 +1,0 @@
-This repository contains learner-created training documentation and evidence. No open-source license is asserted for the submitted report or screenshots. Add an appropriate LICENSE only if you have the right to license the included material.
