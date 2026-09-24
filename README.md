@@ -117,6 +117,4 @@ These details are taken from the submitted report.
 
 ---
 
-### Portfolio note
 
-For a public GitHub repository, avoid committing any real credentials, private target files, or reusable password hashes. The supplied lab materials should remain limited to authorized training evidence.
