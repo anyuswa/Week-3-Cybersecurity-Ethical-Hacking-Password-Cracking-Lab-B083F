@@ -113,7 +113,6 @@ Do not apply these techniques to systems, accounts, files or datasets without ex
 - **Project:** W3-PM1 / Week 3 Project Modules 1–2
 - **Completion date:** 24 September 2026
 
-These details are taken from the submitted report. 
 
 ---
 
