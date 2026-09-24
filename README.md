@@ -90,7 +90,7 @@ The report records:
 
 ## Evidence
 
-The `evidence/` directory contains the screenshots embedded in the original Word report. The screenshots document configuration, hash extraction, hash loading, attack execution and successful PDF access. For example, the screenshots on pages 3–6 show the Johnny configuration and cracking workflow, while pages 11–15 show the Networkwalks workflow and successful recovery. 
+The [`evidence/`](evidence/) directory contains the screenshots embedded in the original Word report. The screenshots document configuration, hash extraction, hash loading, attack execution and successful PDF access. For example, the screenshots on pages 3–6 show the Johnny configuration and cracking workflow, while pages 11–15 show the Networkwalks workflow and successful recovery. 
 
 ## Ethics and authorization
 
