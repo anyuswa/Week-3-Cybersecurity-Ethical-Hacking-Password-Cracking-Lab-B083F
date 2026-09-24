@@ -22,7 +22,7 @@ The practical work documents two workflows:
    - Record the recovered password.
    - Verify that the supplied protected PDF opens successfully.
 
-The original report records completion of both practical workflows and includes screenshot evidence from the Windows environment. fileciteturn0file0L12-L33
+The original report records completion of both practical workflows and includes screenshot evidence from the Windows environment. 
 
 ## Repository structure
 
@@ -47,8 +47,7 @@ week-3-password-cracking-lab/
 - Extract and handle a PDF hash in a controlled lab.
 - Document a repeatable password-recovery workflow.
 - Verify successful recovery by opening the supplied training PDF.
-- Understand why simple or predictable passwords are vulnerable to systematic password testing. fileciteturn0file0L281-L291
-
+- Understand why simple or predictable passwords are vulnerable to systematic password testing. 
 ## Tools
 
 | Tool / Resource | Purpose |
@@ -60,7 +59,7 @@ week-3-password-cracking-lab/
 | Text editor | Saving the extracted hash as `hash1.txt` |
 | PDF reader | Verifying recovered access |
 
-The report identifies John the Ripper and Johnny as the Module 1 tools and the Networkwalks Hash Calculator and Password Cracker as the Module 2 tools. fileciteturn0file0L34-L49 fileciteturn0file0L185-L208
+The report identifies John the Ripper and Johnny as the Module 1 tools and the Networkwalks Hash Calculator and Password Cracker as the Module 2 tools. 
 
 ## Results
 
@@ -91,13 +90,13 @@ The report records:
 
 ## Evidence
 
-The `evidence/` directory contains the screenshots embedded in the original Word report. The screenshots document configuration, hash extraction, hash loading, attack execution and successful PDF access. For example, the screenshots on pages 3–6 show the Johnny configuration and cracking workflow, while pages 11–15 show the Networkwalks workflow and successful recovery. fileciteturn0file0L59-L85 fileciteturn0file0L217-L255
+The `evidence/` directory contains the screenshots embedded in the original Word report. The screenshots document configuration, hash extraction, hash loading, attack execution and successful PDF access. For example, the screenshots on pages 3–6 show the Johnny configuration and cracking workflow, while pages 11–15 show the Networkwalks workflow and successful recovery. 
 
 ## Ethics and authorization
 
 Password-cracking tools are dual-use security tools. This repository is intended for **authorized training, lab work and defensive security education only**. The original report explicitly states that the exercise targeted supplied training PDFs and was not intended to obtain unauthorized access to third-party information. fileciteturn0file0L116-L121
 
-Do not apply these techniques to systems, accounts, files or datasets without explicit authorization. fileciteturn0file0L292-L298
+Do not apply these techniques to systems, accounts, files or datasets without explicit authorization. 
 
 ## External resources
 
@@ -114,7 +113,7 @@ Do not apply these techniques to systems, accounts, files or datasets without ex
 - **Project:** W3-PM1 / Week 3 Project Modules 1–2
 - **Completion date:** 24 September 2026
 
-These details are taken from the submitted report. fileciteturn0file0L2-L10 fileciteturn0file0L313-L318
+These details are taken from the submitted report. 
 
 ---
 
